@@ -1,0 +1,5 @@
+server 文件夹放入源码目录的src文件夹内
+
+sql文件导入world数据库
+
+进入游戏 输入  .npc add 200000
